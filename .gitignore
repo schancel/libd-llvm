@@ -59,4 +59,5 @@ build.rf
 
 # For convenience
 test.sh
+dub.json
 
